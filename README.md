@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio
+
+This is an incomplete collection of various data science, statistical learning, and mathematical solutions projects developed through formal coursework or in personal explorations. 
 
 You can use the [editor on GitHub](https://github.com/PCSchmidt/My-Projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
