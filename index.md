@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
-[Project 1 Title](/sample_page)
+[Natural Language Processing Exploration](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Streaming API Capture and Automated EDA](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Deep Learning with Keras](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Statistical Learning Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [LR, LDA, QDA, and KNN](http://example.com/)
+- [LDA, QDA with MNIST Data](http://example.com/)
+- [PCA with LDA, QDA, GAMs, and K-fold CV](http://example.com/)
+- [Random Forests with Grid Search](http://example.com/)
+- [Data Visualization](http://example.com/)
 
 ---
 
