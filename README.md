@@ -1,16 +1,17 @@
-## Welcome to My Portfolio
+## Developer Portfolio Landing Page Template
 
-This is an incomplete collection of various data science, statistical learning, and mathematical solutions projects developed through formal coursework or in personal explorations. 
+### Introduction
 
-### Jupyter Notebooks
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-### LinkedIn Learning Projects
+<img src="images/demo.gif?raw=true"/>
 
-### DataCamp Projects
+### Installation
 
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
-
-You can use the [editor on GitHub](https://github.com/PCSchmidt/My-Projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -24,7 +25,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-#### Header 4
+
 - Bulleted
 - List
 
@@ -38,10 +39,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Roadmap
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PCSchmidt/My-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
+___
 
-### Support or Contact
+### References
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
